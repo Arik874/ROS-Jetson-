@@ -2,7 +2,8 @@
 # Install ROS on NVIDIA Jetson Developer Kits
 # Copyright (c) JetsonHacks, 2019-2021
 
-# MIT License
+# MIT Licensed
+
 # Maintainer of ARM builds for ROS is http://answers.ros.org/users/1034/ahendrix/
 # Information from:
 # http://wiki.ros.org/melodic/Installation/UbuntuARM
